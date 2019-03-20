@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.douzone</groupId>
-	<artifactId>guestbook5</artifactId>
+	<artifactId>guestbook4</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
@@ -111,7 +111,7 @@
 				<artifactId>tomcat-maven-plugin</artifactId>
 				<configuration>
 					<url>http://127.0.0.1:8080/manager/text</url>
-					<path>/mysite3</path>
+					<path>/guestbook4</path>
 					<username>seongmin</username>
 					<password>seongmin12!@</password>
 				</configuration>
